@@ -441,3 +441,12 @@ body {
 .custom-angled.section-angled-reverse .section-angled-layer-bottom {
 		transform: skewY(-3deg) translate3d(0, 50%, 0) !important;
 }
+
+
+
+/* .header-logo img{
+	position: relative;
+	z-index: 10;
+	width: 100px;
+	height: 100px;
+} */
